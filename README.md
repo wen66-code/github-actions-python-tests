@@ -10,7 +10,7 @@
 
 ## 在本地运行测试
 
-需要 Python 3.11 和可用的 `pip`。克隆仓库并进入目录后执行：
+建议使用 Python 3.11（与 CI 环境一致）及可用的 `pip`。克隆仓库并进入目录后执行：
 
 ```bash
 python -m pip install pytest
